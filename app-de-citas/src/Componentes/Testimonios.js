@@ -14,6 +14,7 @@ const Testimonios = () => {
 
   return (
     <div className="testimonios-container">
+      <h2 className="testimonios-titulo">TESTIMONIOS</h2>
       <div className="testimonios">
         {images.map((image, index) => (
           <div key={index} className="testimonio">

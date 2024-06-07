@@ -3,6 +3,11 @@
   background-color: brown;
   padding: 20px;
 }
+.testimonios-titulo{
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: white;
+}
 .testimonios {
     display: flex;
     flex-wrap: wrap;
