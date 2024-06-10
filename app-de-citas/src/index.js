@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import Header from "./Componentes/Header"
 import Carrusel from './Componentes/Carrusel';
 import QuienesSomos from './Componentes/QuienesSomos.js';
-import Nuevo from './Componentes/Nuevo.js';
+import Nuevo from './Componentes/Nuevo.js'
 import Testimonios from './Componentes/Testimonios.js';
 import Perfiles from './Componentes/Perfiles.js';
 import Footer from './Componentes/Footer.js';
